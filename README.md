@@ -1,3 +1,5 @@
+![Sales_ _Finance_Analysis](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/895acbcd-208f-4510-9ff3-1e87417188a6)
+
 ## Sales Report :
 
 
@@ -13,7 +15,6 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-
 ## Finance Report :
 
 - **Project objective:** 
@@ -27,6 +28,13 @@
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+    
+Some snaps of Report,
+
+![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/66b79592-d462-45d3-91b2-a0a1014d3cb8)
+![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/44f43711-d32e-40c1-b141-881366e99f9a)
+![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/93251982-66d1-4969-9971-b681328254d0)
+![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/93aaf0f7-c00d-4253-9e07-7ca1d5f6f7d5)
 
 
 ## Technical & Soft Skills:
