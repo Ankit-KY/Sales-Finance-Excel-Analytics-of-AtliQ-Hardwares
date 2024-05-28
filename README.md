@@ -1,4 +1,5 @@
-![Sales_ _Finance_Analysis](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/895acbcd-208f-4510-9ff3-1e87417188a6)
+![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/260831ba-6908-4faa-a86a-cad9567d099a)
+
 
 ## Sales Report :
 
