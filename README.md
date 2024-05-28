@@ -51,3 +51,7 @@ Some snaps of Report,
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+
+#### Do you have  any questions ? Feel free to ask anything….
+### Connect with me on [linkedin.](https://www.linkedin.com/in/ankit-kumar-yadav3027)
