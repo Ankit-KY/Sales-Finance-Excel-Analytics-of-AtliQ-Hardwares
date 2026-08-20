@@ -1,6 +1,6 @@
 <img width="4400" height="2475" alt="Sales   Finanace Analytics" src="https://github.com/user-attachments/assets/5e2dccbe-c5e9-45a3-8943-47c8fb7640cb" />
-![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/260831ba-6908-4faa-a86a-cad9567d099a)
 
+This project is about sales & finance analytics for AtliQ hardwares which is a leading company that supplies products such as computer hardware and peripherals to clients across the world. My focus was to create a sales analytics report to analyze company performance in the market.
 
 ## Sales Report :
 
@@ -32,11 +32,10 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
     
 Some snaps of Report,
-
-![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/66b79592-d462-45d3-91b2-a0a1014d3cb8)
-![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/44f43711-d32e-40c1-b141-881366e99f9a)
-![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/93251982-66d1-4969-9971-b681328254d0)
-![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/93aaf0f7-c00d-4253-9e07-7ca1d5f6f7d5)
+<img width="6428" height="3603" alt="Sales   Finance Dashboard" src="https://github.com/user-attachments/assets/db4e2cbf-898b-4a88-bfc8-73789530ab07" />
+<img width="1506" height="939" alt="Customer Performance" src="https://github.com/user-attachments/assets/290bcd46-ca37-4414-8b79-55c25c86383b" />
+<img width="1681" height="874" alt="Market Performance" src="https://github.com/user-attachments/assets/c4a26570-bcfe-476c-947e-9de47f8c78c0" />
+<img width="1519" height="826" alt="P   L Year" src="https://github.com/user-attachments/assets/398c6b11-83dd-4ec1-8b19-74d10c3555bb" />
 
 
 ## Technical & Soft Skills:
