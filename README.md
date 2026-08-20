@@ -1,3 +1,4 @@
+<img width="4400" height="2475" alt="Sales   Finanace Analytics" src="https://github.com/user-attachments/assets/5e2dccbe-c5e9-45a3-8943-47c8fb7640cb" />
 ![image](https://github.com/Ankit-KY/Sales-Finance-Excel-Analytics-of-AtliQ-Hardwares/assets/148628279/260831ba-6908-4faa-a86a-cad9567d099a)
 
 
